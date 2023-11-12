@@ -5,7 +5,7 @@
 ### Newsletter-App
 | Repository | Beschreibung | Lösung|
 | --- | --- | --- |
-| [HTML-Aufgabe](https://github.com/helsoc7/newsletter-html)| Einfache HTML-Aufgabe, um eine Newsletter-Anmeldung zu generieren | - |
+| [HTML-Aufgabe](https://github.com/helsoc7/newsletter-html)| Einfache HTML-Aufgabe, um eine Newsletter-Anmeldung zu generieren | - | 
 
 ### TicTacToe-Spiel
 | Repository | Beschreibung | Lösung|
