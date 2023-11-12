@@ -22,3 +22,12 @@
 | Repository | Beschreibung | Lösung|
 | --- | --- | --- |
 | [HTML-Aufgabe](https://github.com/helsoc7/timetable-html)| Einfache HTML-Aufgabe, um eine Stundenplan-Oberfläche zu generieren | - |
+
+
+## Python
+
+
+## Datenbanken
+
+
+## Cloudformation
